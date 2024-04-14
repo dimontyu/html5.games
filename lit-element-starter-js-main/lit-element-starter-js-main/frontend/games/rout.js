@@ -72,7 +72,7 @@ this._round +=1 ;
 this._echo=e;
 //console.log(this._role);
 	  
-}else{
+}if(this.players_count===4){
 //["attacker2", "attacker2", "attacker", "defender"]
 //['defender', 'attacker2', 'attacker2', 'attacker']
 //['attacker', 'defender', 'attacker2', 'attacker2']
