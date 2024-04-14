@@ -1,0 +1,66 @@
+{"type":"hi"}
+
+
+
+{"type":"start","n":"2"}
+
+{"connect": 2}
+
+ONE ROUND
+{"players_count": 2, "deck": [["K", "J"], ["Ch", "J"], ["B", "Q"], ["K", "A"], ["P", "6"], ["P", "8"], ["P", "K"], ["Ch", "A"], ["P", "9"], ["B", "9"], ["B", "10"], ["P", "10"], ["Ch", "8"], ["B", "J"], ["Ch", "7"], ["K", "10"], ["P", "Q"], ["K", "8"], ["B", "6"], ["P", "7"], ["Ch", "K"], ["K", "7"], ["K", "K"], ["Ch", "10"]], "active_suit": "Ch", "attacker": [["B", "A"], ["Ch", "6"], ["B", "8"], ["B", "K"], ["K", "Q"], ["Ch", "Q"]], "defender": [["K", "9"], ["Ch", "9"], ["B", "7"], ["K", "6"], ["P", "A"], ["P", "J"]], "players": [[["K", "9"], ["Ch", "9"], ["B", "7"], ["K", "6"], ["P", "A"], ["P", "J"]], [["B", "A"], ["Ch", "6"], ["B", "8"], ["B", "K"], ["K", "Q"], ["Ch", "Q"]]], "suits": ["Ch", "B", "K", "P"], "ranks": ["6", "7", "8", "9", "10", "J", "Q", "K", "A"], "passes": 0, "target": 0, "deck_id": ["483550ac-e0a1-4812-9b1a-b8667451f7eb", "2a36cf04-f21c-4fb5-9a37-2ecac1ebb312"], "id": "483550ac-e0a1-4812-9b1a-b8667451f7eb", "name": "483550ac-e0a1-4812-9b1a-b8667451f7eb"}
+
+
+{"type": "set", "players": "1", "pos": "2", "id": "2a36cf04-f21c-4fb5-9a37-2ecac1ebb312", "name": "483550ac-e0a1-4812-9b1a-b8667451f7eb", "deck_id": ["483550ac-e0a1-4812-9b1a-b8667451f7eb", "2a36cf04-f21c-4fb5-9a37-2ecac1ebb312"], "cach": [[null, null, null, null, null, null], [null, null, ["B", "8"], null, null, null], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "attacker", "passes": 1}
+
+{"type": "set", "players": "0", "pos": "1", "id": "483550ac-e0a1-4812-9b1a-b8667451f7eb", "name": "483550ac-e0a1-4812-9b1a-b8667451f7eb", "deck_id": ["483550ac-e0a1-4812-9b1a-b8667451f7eb", "2a36cf04-f21c-4fb5-9a37-2ecac1ebb312"], "cach": [[null, ["Ch", "9"], null, null, null, null], [null, null, ["B", "8"], null, null, null], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "defender", "passes": 1, "broken_card": ["B", "8"]}
+
+{"type": "set", "players": "1", "pos": "0", "id": "2a36cf04-f21c-4fb5-9a37-2ecac1ebb312", "name": "483550ac-e0a1-4812-9b1a-b8667451f7eb", "deck_id": ["483550ac-e0a1-4812-9b1a-b8667451f7eb", "2a36cf04-f21c-4fb5-9a37-2ecac1ebb312"], "cach": [[null, ["Ch", "9"], null, null, null, null], [["B", "A"], null, ["B", "8"], null, null, null], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "attacker", "passes": 2}
+
+
+{"type": "set", "taks": "1", "players": 0, "id": "483550ac-e0a1-4812-9b1a-b8667451f7eb", "name": "483550ac-e0a1-4812-9b1a-b8667451f7eb", "deck_id": ["483550ac-e0a1-4812-9b1a-b8667451f7eb", "2a36cf04-f21c-4fb5-9a37-2ecac1ebb312"], "role": "defender"}
+
+TWO round
+
+{"type": "set", "players": "1", "pos": "5", "id": "c23ec5b1-84fd-43be-90e1-3379bba23753", "name": "1863fa3d-60e9-43ac-bc17-4501b7665174", "deck_id": ["1863fa3d-60e9-43ac-bc17-4501b7665174", "c23ec5b1-84fd-43be-90e1-3379bba23753"], "cach": [[null, null, null, null, null, null], [null, null, null, null, null, ["P", "10"]], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "attacker", "passes": 1}
+
+{"type": "set", "players": "1", "pos": "2", "id": "c23ec5b1-84fd-43be-90e1-3379bba23753", "name": "1863fa3d-60e9-43ac-bc17-4501b7665174", "deck_id": ["1863fa3d-60e9-43ac-bc17-4501b7665174", "c23ec5b1-84fd-43be-90e1-3379bba23753"], "cach": [[null, null, null, null, null, null], [null, null, ["Ch", "7"], null, null, ["P", "10"]], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "attacker", "passes": 2}
+
+{"type": "set", "players": "0", "pos": "0", "id": "1863fa3d-60e9-43ac-bc17-4501b7665174", "name": "1863fa3d-60e9-43ac-bc17-4501b7665174", "deck_id": ["1863fa3d-60e9-43ac-bc17-4501b7665174", "c23ec5b1-84fd-43be-90e1-3379bba23753"], "cach": [[["Ch", "9"], null, null, null, null, null], [null, null, ["Ch", "7"], null, null, ["P", "10"]], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "defender", "passes": 2, "broken_card": ["Ch", "7"]}
+
+{"type": "set", "players": "0", "pos": "4", "id": "1863fa3d-60e9-43ac-bc17-4501b7665174", "name": "1863fa3d-60e9-43ac-bc17-4501b7665174", "deck_id": ["1863fa3d-60e9-43ac-bc17-4501b7665174", "c23ec5b1-84fd-43be-90e1-3379bba23753"], "cach": [[["Ch", "9"], null, null, null, ["P", "A"], null], [null, null, ["Ch", "7"], null, null, ["P", "10"]], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "defender", "passes": 2, "broken_card": ["P", "10"]}
+
+{"type": "set", "players": "1", "pos": "0", "id": "c23ec5b1-84fd-43be-90e1-3379bba23753", "name": "1863fa3d-60e9-43ac-bc17-4501b7665174", "deck_id": ["1863fa3d-60e9-43ac-bc17-4501b7665174", "c23ec5b1-84fd-43be-90e1-3379bba23753"], "cach": [[["Ch", "9"], null, null, null, ["P", "A"], null], [["P", "9"], null, ["Ch", "7"], null, null, ["P", "10"]], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "attacker", "passes": 3}
+
+{"type": "set", "taks": "1", "players": 0, "id": "1863fa3d-60e9-43ac-bc17-4501b7665174", "name": "1863fa3d-60e9-43ac-bc17-4501b7665174", "deck_id": ["1863fa3d-60e9-43ac-bc17-4501b7665174", "c23ec5b1-84fd-43be-90e1-3379bba23753"], "role": "defender"}
+
+3 round
+
+{"players_count": 2, "deck": [["Ch", "J"], ["B", "Q"], ["B", "9"], ["B", "7"], ["Ch", "10"], ["K", "6"], ["B", "10"], ["K", "J"], ["K", "9"], ["P", "J"], ["B", "K"], ["K", "Q"], ["Ch", "8"], ["K", "7"], ["Ch", "A"], ["B", "J"], ["Ch", "9"], ["K", "8"], ["P", "6"], ["P", "10"], ["P", "8"], ["P", "7"], ["B", "A"], ["B", "8"]], "active_suit": "B", "attacker": [["P", "Q"], ["Ch", "6"], ["Ch", "Q"], ["B", "6"], ["P", "9"], ["K", "K"]], "defender": [["Ch", "7"], ["P", "K"], ["P", "A"], ["K", "10"], ["K", "A"], ["Ch", "K"]], "players": [[["P", "Q"], ["Ch", "6"], ["Ch", "Q"], ["B", "6"], ["P", "9"], ["K", "K"]], [["Ch", "7"], ["P", "K"], ["P", "A"], ["K", "10"], ["K", "A"], ["Ch", "K"]]], "suits": ["Ch", "B", "K", "P"], "ranks": ["6", "7", "8", "9", "10", "J", "Q", "K", "A"], "passes": 0, "target": 1, "deck_id": ["162da6c4-688a-48f3-9a59-ca5174f29855", "aa3f21a7-987e-432f-b312-4b2211f214c9"], "id": "aa3f21a7-987e-432f-b312-4b2211f214c9", "name": "162da6c4-688a-48f3-9a59-ca5174f29855"}
+
+{"type": "set", "players": "0", "pos": "3", "id": "162da6c4-688a-48f3-9a59-ca5174f29855", "name": "162da6c4-688a-48f3-9a59-ca5174f29855", "deck_id": ["162da6c4-688a-48f3-9a59-ca5174f29855", "aa3f21a7-987e-432f-b312-4b2211f214c9"], "cach": [[null, null, null, ["B", "6"], null, null], [null, null, null, null, null, null], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "attacker", "passes": 1}
+
+{"type": "set", "players": "0", "pos": "1", "id": "162da6c4-688a-48f3-9a59-ca5174f29855", "name": "162da6c4-688a-48f3-9a59-ca5174f29855", "deck_id": ["162da6c4-688a-48f3-9a59-ca5174f29855", "aa3f21a7-987e-432f-b312-4b2211f214c9"], "cach": [[null, ["Ch", "6"], null, ["B", "6"], null, null], [null, null, null, null, null, null], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "attacker", "passes": 2}
+
+{"type": "set", "players": "0", "pos": "2", "id": "162da6c4-688a-48f3-9a59-ca5174f29855", "name": "162da6c4-688a-48f3-9a59-ca5174f29855", "deck_id": ["162da6c4-688a-48f3-9a59-ca5174f29855", "aa3f21a7-987e-432f-b312-4b2211f214c9"], "cach": [[null, ["Ch", "6"], ["Ch", "Q"], ["B", "6"], null, null], [null, null, null, null, null, null], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "attacker", "passes": 3}
+
+{"type": "set", "players": "1", "pos": "0", "id": "aa3f21a7-987e-432f-b312-4b2211f214c9", "name": "162da6c4-688a-48f3-9a59-ca5174f29855", "deck_id": ["162da6c4-688a-48f3-9a59-ca5174f29855", "aa3f21a7-987e-432f-b312-4b2211f214c9"], "cach": [[null, ["Ch", "6"], ["Ch", "Q"], ["B", "6"], null, null], [["Ch", "7"], null, null, null, null, null], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "defender", "passes": 3, "broken_card": ["Ch", "6"]}
+
+{"type": "set", "players": "1", "pos": "5", "id": "aa3f21a7-987e-432f-b312-4b2211f214c9", "name": "162da6c4-688a-48f3-9a59-ca5174f29855", "deck_id": ["162da6c4-688a-48f3-9a59-ca5174f29855", "aa3f21a7-987e-432f-b312-4b2211f214c9"], "cach": [[null, ["Ch", "6"], ["Ch", "Q"], ["B", "6"], null, null], [["Ch", "7"], null, null, null, null, ["Ch", "K"]], [null, null, null, null, null, null], [null, null, null, null, null, null]], "role": "defender", "passes": 3, "broken_card": ["Ch", "Q"]}
+
+{"type": "set", "taks": "0", "players": 0, "id": "162da6c4-688a-48f3-9a59-ca5174f29855", "name": "162da6c4-688a-48f3-9a59-ca5174f29855", "deck_id": ["162da6c4-688a-48f3-9a59-ca5174f29855", "aa3f21a7-987e-432f-b312-4b2211f214c9"], "role": "attacker"}
+
+
+
+{"type": "set", "taks": "1", "players": 0, "id": "57162198-7fa2-4881-8f61-68eb3f5fcf30", "name": "57162198-7fa2-4881-8f61-68eb3f5fcf30", "deck_id": ["57162198-7fa2-4881-8f61-68eb3f5fcf30", "5afee3f4-8293-466f-8780-2c8d3b7c39d3"], "role": "defender"}
+
+
+
+
+{"players_count": 2, "deck": [["K", "9"], ["P", "Q"], ["Ch", "6"], ["B", "6"], ["P", "J"], ["K", "7"], ["Ch", "K"], ["B", "Q"], ["K", "A"], ["P", "6"], ["P", "10"], ["B", "7"], ["Ch", "9"], ["K", "6"], ["Ch", "8"], ["B", "K"], ["B", "10"], ["P", "A"], ["B", "8"], ["K", "J"], ["Ch", "10"], ["Ch", "J"], ["K", "10"], ["B", "J"]], "active_suit": "B", "attacker": [["Ch", "7"], ["B", "9"], ["K", "Q"], ["B", "A"], ["K", "8"], ["K", "K"]], "defender": [["Ch", "A"], ["P", "7"], ["P", "9"], ["P", "8"], ["P", "K"], ["Ch", "Q"]], "players": [[["Ch", "7"], ["B", "9"], ["K", "Q"], ["B", "A"], ["K", "8"], ["K", "K"]], [["Ch", "A"], ["P", "7"], ["P", "9"], ["P", "8"], ["P", "K"], ["Ch", "Q"]]], "pl_roles": ["attacker", "defender"], "suits": ["Ch", "B", "K", "P"], "ranks": ["6", "7", "8", "9", "10", "J", "Q", "K", "A"], "passes": 0, "target": 0, "deck_id": ["d3b60c1b-1ce3-42d7-9079-9005cb1d3cd4", "018c0b41-4b3c-446b-a930-782f16443269"], "id": "d3b60c1b-1ce3-42d7-9079-9005cb1d3cd4", "name": "d3b60c1b-1ce3-42d7-9079-9005cb1d3cd4"}
+
+
+
+
+{'deck': [['P', 'J'], ['Ch', '8'], ['P', '8'], ['Ch', 'Q'], ['B', '8'], ['B', 'A'], ['B', '7'], ['Ch', 'J'], ['K', '6'], ['Ch', '9'], ['Ch', '6'], ['K', '7'], ['K', 
+'K'], ['P', '9'], ['K', '9'], ['P', 'A'], ['P', '7'], ['Ch', '7'], ['P', 'Q'], ['K', 'J']], 'players': [[['B', '9'], ['B', '6'], ['B', 'J'], ['Ch', '10'], ['P', 'K'], ['Ch', 'K']], [['Ch', 'A'], ['B', 'K'], ['P', '6'], ['K', '10'], ['K', '8'], ['P', '10'], ['B', 'Q'], ['K', 'Q'], ['K', 'A'], ['B', '10']]], 'roles': ['attacker', 
+'defender'], 'cach': [[], [], [], []], 'deck_back': []}
